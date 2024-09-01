@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Marcos aluno da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -23,19 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Aprendendo sobre IA generativa com a DIO
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Prompt descrevendo uma imagem
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://www.bing.com/images/create/desenhe-uma-mulher-de-corpo-inteiro-estilo-viuva-n/1-665cc75e27ca4ee9aad31d86c6e32cce?id=772vZKu9QmatznbmDg3BTg%3d%3d&view=detailv2&idpp=genimg&idpbck=1&form=BICREC&idpview=singleimage&idpo=coll&thid=OIG2.XTmdfvzK.V92Lez8qKT2
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Bem interessante
 ```
 
 ### Exemplos e Insigths
